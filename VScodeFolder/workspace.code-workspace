@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "coding_folder"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "c",
+			"string.h": "c"
+		}
+	}
+}
